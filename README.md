@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Projects
 
-### 💳 [Credit Risk Prediction](#)
+### 💳 [Credit Risk Prediction](https://github.com/mariennedosso/Credit-Risk-Prediction)
 Machine learning model on the Lending Club dataset to predict borrower default risk — covering data cleaning, feature engineering, EDA, and classification modeling with Python and Scikit-learn.
 
 ### 🩺 [Gestational Diabetes Risk Prediction](#)
