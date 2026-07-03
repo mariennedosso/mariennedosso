@@ -23,7 +23,7 @@
 ### 💳 [Credit Risk Prediction](https://github.com/mariennedosso/Credit-Risk-Prediction)
 Machine learning model on the Lending Club dataset to predict borrower default risk — covering data cleaning, feature engineering, EDA, and classification modeling with Python and Scikit-learn.
 
-### 🩺 [Gestational Diabetes Risk Prediction](#)
+### 🩺 [Gestational Diabetes Risk Prediction](https://github.com/mariennedosso/Gestational-Diabetes-Risk-Prediction)
 Binary classification (Logistic Regression, Random Forest) to predict gestational diabetes risk, with a focus on evaluating model performance (ROC-AUC, Precision, Recall, F1) under limited clinical data.
 
 ### 💧 [Water Consumption Analytics](#)
