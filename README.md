@@ -1,8 +1,8 @@
 # 👋 About Me
 
-Hi, I'm **Marienne**, a Master's student in **Data Science** with a background in **Computer Science**.
+Hi, I'm Marienne, a Master's student in Data Science with a background in Computer Science.
 
-I'm passionate about applying **machine learning**, **data analytics**, and **statistical modeling** to solve real-world problems. I enjoy transforming complex datasets into actionable insights through predictive modeling, data visualization, and AI-driven solutions.
+I'm passionate about applying machine learning, data analytics, and statistical modeling to solve real-world problems. I enjoy transforming complex datasets into actionable insights through predictive modeling, data visualization, and AI-driven solutions.
 
 ---
 
