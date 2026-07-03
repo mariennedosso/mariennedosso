@@ -26,7 +26,7 @@ Machine learning model on the Lending Club dataset to predict borrower default r
 ### 🩺 [Gestational Diabetes Risk Prediction](https://github.com/mariennedosso/Gestational-Diabetes-Risk-Prediction)
 Binary classification (Logistic Regression, Random Forest) to predict gestational diabetes risk, with a focus on evaluating model performance (ROC-AUC, Precision, Recall, F1) under limited clinical data.
 
-### 💧 [Water Consumption Analytics](#)
+### 💧 [Water Consumption Analytics](https://github.com/mariennedosso/Water-Consumption-Analytics)
 End-to-end predictive analytics system for monitoring water consumption, built with Python, Streamlit, and SQL, including interactive dashboards. Completed during my internship and **published in IJSET**.
 
 > 💡 Replace the `#` links above with your actual repo URLs once your README is live.
