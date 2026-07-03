@@ -29,7 +29,7 @@ Binary classification (Logistic Regression, Random Forest) to predict gestationa
 ### 💧 [Water Consumption Analytics](https://github.com/mariennedosso/Water-Consumption-Analytics)
 End-to-end predictive analytics system for monitoring water consumption, built with Python, Streamlit, and SQL, including interactive dashboards. Completed during my internship and **published in IJSET**.
 
-> 💡 Replace the `#` links above with your actual repo URLs once your README is live.
+
 
 ---
 
